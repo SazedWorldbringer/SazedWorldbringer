@@ -1,7 +1,7 @@
 ```bash
 sazed@github:~$ neofetch
              /////////      sazed@github
-            ///     /       name: SazedWorldbringer
+            ///     /       name: Atharva Pardeshi(Sazed)
            ///              livesIn: India (::1)
           ///               learning: React, data structures and algorithms
     /    ///                likes: Programming, reading science-fiction and fantasy 
