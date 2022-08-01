@@ -4,9 +4,9 @@ sazed@github:~$ neofetch
   ███████╗      sazed@github
   ██╔════╝      name: Atharva Pardeshi(Sazed)
   ███████╗      livesIn: India(::1)
-  ╚════██║      currentRead: The Self-Taught Programmer - Cory Althoff
-  ███████║      likes: Programming, reading Science-fiction and Fantasy
-  ╚══════╝      
+  ╚════██║      skills: JavaScript, React, Frontend Development
+  ███████║      currentRead: The Self-Taught Programmer - Cory Althoff
+  ╚══════╝      likes: Reading Science-fiction and Fantasy, Programming
         
 sazed@github:~$ sudo rm -rf /*
 [sudo] password for sazed: averyhardpassword
