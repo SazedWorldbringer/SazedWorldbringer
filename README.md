@@ -7,7 +7,7 @@ sazed@github:~$ neofetch
   ╚════██║      skills: JavaScript, React, Frontend Development
   ███████║      currentRead: The Self-Taught Programmer - Cory Althoff
   ╚══════╝      likes: Reading Science-fiction and Fantasy, Programming
-                P.S. Sazed is one of the main characters in the Mistborn Trilogy
+                P.S. Sazed is one of the main characters from the Mistborn Trilogy
         
 sazed@github:~$ sudo rm -rf /*
 [sudo] password for sazed: averyhardpassword
