@@ -14,3 +14,5 @@ sazed@github:~$ sudo rm -rf /*
 Are you sure you want to remove root(y/n): y
 [||||||||-----------------------------------] 10%
 ```
+
+[![@sazed's Holopin board](https://holopin.me/sazed)](https://holopin.io/@sazed)
