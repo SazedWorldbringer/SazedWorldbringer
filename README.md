@@ -4,8 +4,8 @@ sazed@github:~$ neofetch
   ███████╗      sazed@github
   ██╔════╝      name: Atharva Pardeshi(Sazed)
   ███████╗      livesIn: India(::1)
-  ╚════██║      skills: JavaScript, React, Frontend Development
-  ███████║      currentRead: Crafting Interpreters, A Crown of Swords
+  ╚════██║      skills: TypeScript, JavaScript, React.js, Go, C
+  ███████║      currentRead: Learn Go with tests, A Mind for Numbers
   ╚══════╝      likes: Reading Science-fiction and Fantasy, Programming
                 P.S. Sazed is one of the main characters from the Mistborn Trilogy
 
